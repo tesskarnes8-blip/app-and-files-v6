@@ -1,0 +1,3 @@
+item_code,price_list,price_list_rate,uom,currency
+SVC-RETAINER,Standard Selling,8500,Month,USD
+SVC-PROG-DISPLAY,Standard Buying,15000,Unit,USD

@@ -1,0 +1,11 @@
+account_number,account_name,account_type,root_type,is_group,parent_account,company
+,Application of Funds (Assets),,Asset,1,,"Thornfield Life Sciences Marketing, Inc."
+,Current Assets,,Asset,1,Application of Funds (Assets),"Thornfield Life Sciences Marketing, Inc."
+,Accounts Receivable,Receivable,Asset,1,Current Assets,"Thornfield Life Sciences Marketing, Inc."
+,Debtors,Receivable,Asset,0,Accounts Receivable,"Thornfield Life Sciences Marketing, Inc."
+,Cash In Hand,Cash,Asset,1,Current Assets,"Thornfield Life Sciences Marketing, Inc."
+,Cash,Cash,Asset,0,Cash In Hand,"Thornfield Life Sciences Marketing, Inc."
+,Source of Funds (Liabilities),,Liability,1,,"Thornfield Life Sciences Marketing, Inc."
+,Current Liabilities,,Liability,1,Source of Funds (Liabilities),"Thornfield Life Sciences Marketing, Inc."
+,Accounts Payable,Payable,Liability,1,Current Liabilities,"Thornfield Life Sciences Marketing, Inc."
+,Creditors,Payable,Liability,0,Accounts Payable,"Thornfield Life Sciences Marketing, Inc."

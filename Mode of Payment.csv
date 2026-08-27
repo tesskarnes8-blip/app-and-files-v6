@@ -1,0 +1,4 @@
+mode_of_payment,enabled,type
+ACH Transfer,1,Bank
+Wire Transfer,1,Bank
+Check,1,Bank

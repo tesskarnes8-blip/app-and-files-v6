@@ -1,0 +1,29 @@
+From: Bramwell Compliance <compliance@bramwellsci.com>
+To: Accounts Team <accounts@bramwellsci.com>, Marcus Oyelaran <marcus@bramwellsci.com>
+Subject: Reserve policy — diagnostics clients (standing rule)
+Date: Wed, 12 Mar 2025 09:47:22 -0400
+Message-ID: <20250312-reserve-diag-standing@bramwellsci.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft Outlook 16.0
+
+Team,
+
+Confirming the standing rule so we stop re-litigating this every time a new diagnostics engagement gets booked. For all diagnostics and instrumentation clients, we hold a flat 5% budget reserve regardless of spend level, to buffer against regulatory review delays. This applies to every regulated client on our books.
+
+The 5% budget reserve is client-type driven, not spend driven. Whether the client is at $40K a quarter or $400K a quarter, the reserve line comes off the top at the flat 5% rate before any allocation to platforms or production. Accounts, please continue to seed this into the reserve column of every new SO for a regulated client at booking; do not wait for the campaign plan.
+
+The rationale (for anyone new to the file): FDA advisory notices, FDA labeling and promotional-review holds, and state-level diagnostic advertising rulings can and do interrupt live campaigns with no notice. The flat 5% is what has historically kept us from having to claw budget back out of vendors mid-flight when a claim gets pulled or a piece has to be re-cleared. It is not a discount, it is not a contingency negotiation lever with the client, and it is not a line item we surface on the client-facing budget summary — it lives inside the managed-spend envelope.
+
+If any of you see the diagnostics reserve being applied on a sliding scale in a SO or a proposal draft, please flag it back to me and to Marcus before the doc goes out. Regardless of spend, regardless of client size, regardless of quarter — flat 5%, every diagnostics and instrumentation client, no exceptions.
+
+Thanks,
+Elise
+
+Elise Hartigan
+Compliance Lead
+Bramwell Scientific Marketing, LLC
+compliance@bramwellsci.com
+51 Church Street, 3rd Floor
+Cambridge, MA 02138

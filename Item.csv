@@ -1,0 +1,19 @@
+item_code,item_name,item_group,stock_uom,is_stock_item,valuation_rate,opening_stock,standard_rate
+SVC-RETAINER,Monthly Retainer,Services,Month,0,0,0,8500
+SVC-MEDIA-MGMT,Managed Media Services,Services,Unit,0,0,0,0
+SVC-PROG-DISPLAY,Programmatic Display Placement,Services,Unit,0,0,0,15000
+SVC-PASSTHROUGH-MEDIA,Pass-through Media,Services,Unit,0,0,0,0
+SVC-PRODUCTION,Third-party Production,Services,Unit,0,0,0,0
+SVC-PLATFORM-FEES,Platform Ad-serving Fees,Services,Unit,0,0,0,0
+SVC-DATA-LIST,Data List Purchase,Services,Unit,0,0,0,0
+SVC-TRAVEL,Travel Client Meetings,Services,Unit,0,0,0,0
+SVC-CREDIT-MEMO,Credit Memo Adjustment,Services,Unit,0,0,0,0
+SVC-TAX-ADJ,Sales Tax Adjustment,Services,Unit,0,0,0,0
+SVC-PAID-SOCIAL,Paid Social Campaign,Services,Unit,0,0,0,0
+SVC-PAID-SEARCH,Paid Search Campaign,Services,Unit,0,0,0,0
+SVC-LINKEDIN,LinkedIn Sponsored Content,Services,Unit,0,0,0,0
+SVC-EMAIL-NURTURE,Email Nurture Campaign,Services,Unit,0,0,0,0
+SVC-WEBINAR,Webinar Campaign,Services,Unit,0,0,0,0
+SVC-CONTENT-SYN,Content Syndication,Services,Unit,0,0,0,0
+SVC-PROG-AUDIO,Programmatic Audio,Services,Unit,0,0,0,0
+SVC-BILLING,Monthly Billing Services,Services,Unit,0,0,0,0

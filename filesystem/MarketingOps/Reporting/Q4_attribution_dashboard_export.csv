@@ -1,0 +1,42 @@
+# Marketing attribution dashboard — Q4 2025. Attribution basis (touch-timing). Not directly comparable to Finance billing figures. See attribution_nov_dec_comparison.csv for prior-month variance trend.
+ERPNext_Customer_ID,Client_Name,Attribution_Q4_Revenue_USD,Attribution_Method,First_Touch_Date,Notes
+CUST-2025-0033,Marlstone Bioscience,179850,Multi-touch weighted,2025-10-03,Attribution timing basis — differs from Finance billing by design.
+CUST-2025-0142,Ashford Scientific Instruments,236200,Multi-touch weighted,2025-10-02,Inherited-Bramwell account; touch-timing snapshot ~1.6% below the managed-spend register (Finance billing register is not meaningful here since Ashford is billed a service fee separately from platform spend).
+CUST-2025-0088,Caldwell Diagnostics,125800,Position-based,2025-10-08,Regulated (diagnostics) client; variance within normal 1–3% attribution timing band.
+CUST-2025-0198,Fenwick Genomics,73159,Time-decay,2025-10-05,"Attribution timing basis; touch-timing snapshot 1.6% above the managed-spend register, within the normal 1–3% band."
+CUST-2025-0157,Northlake Bioinstruments,230464,Multi-touch weighted,2025-10-15,"Attribution timing basis; touch-timing snapshot 1.9% below the managed-spend register, within the normal 1–3% band."
+CUST-2025-0201,Wrenfield Scientific,59173,Last-touch,2025-11-03,"Attribution timing basis; touch-timing snapshot 2.9% above the managed-spend register, within the normal 1–3% band."
+CUST-2025-0044,Cavendish Life Sciences,35409,Multi-touch weighted,2025-10-06,"Attribution timing basis; touch-timing snapshot 3.0% below the managed-spend register, within the normal 1–3% band."
+CUST-2025-0057,Prescott Analytics,68300,Linear,2025-10-11,First quarter of touch data since campaign restart.
+CUST-2025-0061,Kingsford Cellular,59743,Position-based,2025-10-04,"Attribution timing basis; touch-timing snapshot 2.6% below the billing register, within the normal 1–3% band."
+CUST-2025-0069,Wrenwood Reagent Systems,33851,Multi-touch weighted,2025-10-01,"Attribution timing basis; touch-timing snapshot 2.6% above the managed-spend register, within the normal 1–3% band."
+CUST-2025-0075,Cornhill Diagnostics,44440,Time-decay,2025-10-09,"Attribution timing basis; touch-timing snapshot 1.0% above the managed-spend register, within the normal 1–3% band."
+CUST-2025-0081,Dunstan Bioanalytics,20477,Multi-touch weighted,2025-10-17,"Attribution timing basis; touch-timing snapshot 2.5% below the managed-spend register, within the normal 1–3% band."
+CUST-2025-0093,Perrimore Instrumentation,80446,First-touch,2025-11-05,"Attribution timing basis; touch-timing snapshot 2.6% above the billing register, within the normal 1–3% band."
+CUST-2025-0102,Rowanleaf Labs,74800,Linear,2025-10-22,Contract-labs vertical; timing basis.
+CUST-2025-0109,Danbury Molecular,140691,Multi-touch weighted,2025-10-07,"Attribution timing basis; touch-timing snapshot 1.9% above the managed-spend register, within the normal 1–3% band."
+CUST-2025-0115,Milford Bioanalytics,269183,Position-based,2025-11-12,"Attribution timing basis; touch-timing snapshot 2.5% below the managed-spend register, within the normal 1–3% band."
+CUST-2025-0121,Southridge Bioinstruments,40932,Multi-touch weighted,2025-10-03,"Attribution timing basis; touch-timing snapshot 2.3% above the managed-spend register, within the normal 1–3% band."
+CUST-2025-0128,Ridgeline Cellular,96700,Time-decay,2025-10-14,Cell-therapy adjacent; timing basis.
+CUST-2025-0134,Coleridge Biotech Marketing,42800,First-touch,2025-11-19,Small account; single-campaign quarter.
+CUST-2025-0149,Arcanum Biotech,163900,Multi-touch weighted,2025-10-08,Attribution basis (touch-timing).
+CUST-2025-0155,Northwind Diagnostics,78200,Position-based,2025-10-20,Regulated; touch-timing snapshot.
+CUST-2025-0162,Cygnet Analytics,55600,Linear,2025-11-01,Analytics-software; new client this quarter.
+CUST-2025-0168,Highwater Genomics,148300,Multi-touch weighted,2025-10-06,Sequencing services; variance ~2.1% vs billing.
+CUST-2025-0174,Ellersby Bioinstruments,101200,Time-decay,2025-10-13,Bioinstrumentation; touch-timing basis.
+CUST-2025-0181,Ramsden Bioanalytics,240726,Position-based,2025-10-16,"Attribution timing basis; touch-timing snapshot 2.5% below the managed-spend register, within the normal 1–3% band."
+CUST-2025-0187,Trentham Diagnostics,65245,Multi-touch weighted,2025-10-27,"Attribution timing basis; touch-timing snapshot 2.6% below the managed-spend register, within the normal 1–3% band."
+CUST-2025-0193,Vantage Bioinstruments,117496,Last-touch,2025-10-10,"Attribution timing basis; touch-timing snapshot 2.2% above the managed-spend register, within the normal 1–3% band."
+CUST-2025-0206,Marchmont Analytical Systems,45096,Multi-touch weighted,2025-10-18,"Attribution timing basis; touch-timing snapshot 3.0% above the billing register, within the normal 1–3% band."
+CUST-2025-0213,Coppergate Diagnostics,294365,Time-decay,2025-10-05,"Attribution timing basis; touch-timing snapshot 2.2% above the managed-spend register, within the normal 1–3% band."
+CUST-2025-0219,Everleigh Bioinstruments,132572,First-touch,2025-11-14,"Attribution timing basis; touch-timing snapshot 1.2% above the managed-spend register, within the normal 1–3% band."
+CUST-2025-0225,Glenmore Diagnostics,146745,Multi-touch weighted,2025-10-02,"Attribution timing basis; touch-timing snapshot 2.2% below the managed-spend register, within the normal 1–3% band."
+CUST-2025-0231,Ivybridge Reagent Labs,42025,Linear,2025-11-08,"Attribution timing basis; touch-timing snapshot 2.5% above the managed-spend register, within the normal 1–3% band."
+CUST-2025-0238,Norwood Reagents,89400,Position-based,2025-10-21,Reagents distribution; timing basis.
+CUST-2025-0244,Aster Diagnostics,105800,Multi-touch weighted,2025-10-09,Regulated; touch-timing snapshot.
+CUST-2025-0251,Ridgemere Assays,76200,Time-decay,2025-10-12,Bioinstrumentation vertical; variance in band.
+CUST-2025-0257,Beckley Molecular,124600,Multi-touch weighted,2025-10-06,Molecular tools; attribution timing basis.
+CUST-2025-0263,Sedgewick Genomics,60300,First-touch,2025-11-06,Emerging biotech; single-quarter attribution.
+CUST-2025-0269,Ellisford Biosystems,152100,Multi-touch weighted,2025-10-04,Timing snapshot; variance ~2.3% vs billing register.
+CUST-2025-0275,Rowe Analytics,47800,Linear,2025-11-17,Analytics-services vertical; light history.
+CUST-2025-0282,Woodmere Cellular,98400,Position-based,2025-10-24,Cell-therapy adjacent; touch-timing basis.

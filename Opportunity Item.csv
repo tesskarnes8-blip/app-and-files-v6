@@ -1,0 +1,192 @@
+parent,item_code,qty,rate,uom,item_name,description,amount,base_rate,base_amount
+OPP-2025-0031 Thistlewood Biosystems,SVC-RETAINER,1,150000.0,Unit,Marketing Services Retainer,Marketing services engagement,150000.0,150000.0,150000.0
+OPP-2025-0038 Halberd Genomics,SVC-RETAINER,1,80000.0,Unit,Marketing Services Retainer,Marketing services engagement,80000.0,80000.0,80000.0
+OPP-2025-0045 Cormorant Bio,SVC-RETAINER,1,55000.0,Unit,Marketing Services Retainer,Marketing services engagement,55000.0,55000.0,55000.0
+OPP-2025-0049 Vesalius Labs,SVC-RETAINER,1,55000.0,Unit,Marketing Services Retainer,Marketing services engagement,55000.0,55000.0,55000.0
+OPP-2025-0053 Kensington Diagnostics,SVC-RETAINER,1,35000.0,Unit,Marketing Services Retainer,Marketing services engagement,35000.0,35000.0,35000.0
+OPP-2025-0058 Redstone Analytical,SVC-RETAINER,1,35000.0,Unit,Marketing Services Retainer,Marketing services engagement,35000.0,35000.0,35000.0
+OPP-2025-0062 Bellamy Instruments,SVC-RETAINER,1,35000.0,Unit,Marketing Services Retainer,Marketing services engagement,35000.0,35000.0,35000.0
+OPP-2025-0067 Farnham Biotech,SVC-RETAINER,1,20000.0,Unit,Marketing Services Retainer,Marketing services engagement,20000.0,20000.0,20000.0
+OPP-2025-0071 Grantham Sciences,SVC-RETAINER,1,20000.0,Unit,Marketing Services Retainer,Marketing services engagement,20000.0,20000.0,20000.0
+OPP-2025-0074 Hollis Diagnostics,SVC-RETAINER,1,20000.0,Unit,Marketing Services Retainer,Marketing services engagement,20000.0,20000.0,20000.0
+OPP-2025-0078 Ivory Peak Biosciences,SVC-RETAINER,1,20000.0,Unit,Marketing Services Retainer,Marketing services engagement,20000.0,20000.0,20000.0
+OPP-2025-0081 Larchmont Reagents,SVC-RETAINER,1,10000.0,Unit,Marketing Services Retainer,Marketing services engagement,10000.0,10000.0,10000.0
+OPP-2025-0086 Marvell Cellular,SVC-RETAINER,1,15000.0,Unit,Marketing Services Retainer,Marketing services engagement,15000.0,15000.0,15000.0
+OPP-2025-0089 Ottershaw Instruments,SVC-RETAINER,1,15000.0,Unit,Marketing Services Retainer,Marketing services engagement,15000.0,15000.0,15000.0
+OPP-2025-0093 Prescott Life Sciences,SVC-RETAINER,1,15000.0,Unit,Marketing Services Retainer,Marketing services engagement,15000.0,15000.0,15000.0
+OPP-2025-0097 Quimby Molecular,SVC-RETAINER,1,15000.0,Unit,Marketing Services Retainer,Marketing services engagement,15000.0,15000.0,15000.0
+OPP-2025-0102 Ridgemont Bio,SVC-RETAINER,1,12000.0,Unit,Marketing Services Retainer,Marketing services engagement,12000.0,12000.0,12000.0
+OPP-2025-0106 Stanton Biosystems,SVC-RETAINER,1,10000.0,Unit,Marketing Services Retainer,Marketing services engagement,10000.0,10000.0,10000.0
+OPP-2025-0110 Tremaine Diagnostics,SVC-RETAINER,1,10000.0,Unit,Marketing Services Retainer,Marketing services engagement,10000.0,10000.0,10000.0
+OPP-2025-0114 Uphill Molecular,SVC-RETAINER,1,10000.0,Unit,Marketing Services Retainer,Marketing services engagement,10000.0,10000.0,10000.0
+OPP-2025-0118 Verwood Sciences,SVC-RETAINER,1,10000.0,Unit,Marketing Services Retainer,Marketing services engagement,10000.0,10000.0,10000.0
+OPP-2025-0122 Whitcombe Reagents,SVC-RETAINER,1,10000.0,Unit,Marketing Services Retainer,Marketing services engagement,10000.0,10000.0,10000.0
+OPP-2025-0126 Xanadu Biotech,SVC-RETAINER,1,7000.0,Unit,Marketing Services Retainer,Marketing services engagement,7000.0,7000.0,7000.0
+OPP-2025-0129 Yardley Labs,SVC-RETAINER,1,7000.0,Unit,Marketing Services Retainer,Marketing services engagement,7000.0,7000.0,7000.0
+OPP-2025-0133 Zenithal Molecular,SVC-RETAINER,1,7000.0,Unit,Marketing Services Retainer,Marketing services engagement,7000.0,7000.0,7000.0
+OPP-2025-0136 Aldergrove BioSolutions,SVC-RETAINER,1,7000.0,Unit,Marketing Services Retainer,Marketing services engagement,7000.0,7000.0,7000.0
+OPP-2025-0140 Blyth Analytical,SVC-RETAINER,1,7000.0,Unit,Marketing Services Retainer,Marketing services engagement,7000.0,7000.0,7000.0
+OPP-2025-0144 Caraway Diagnostics,SVC-RETAINER,1,7000.0,Unit,Marketing Services Retainer,Marketing services engagement,7000.0,7000.0,7000.0
+OPP-2025-0148 Draycott Life Sciences,SVC-RETAINER,1,7000.0,Unit,Marketing Services Retainer,Marketing services engagement,7000.0,7000.0,7000.0
+OPP-2025-0151 Elmswood Bio,SVC-RETAINER,1,7000.0,Unit,Marketing Services Retainer,Marketing services engagement,7000.0,7000.0,7000.0
+OPP-2025-0155 Fenlow Reagents,SVC-RETAINER,1,7000.0,Unit,Marketing Services Retainer,Marketing services engagement,7000.0,7000.0,7000.0
+OPP-2025-0159 Girton Molecular,SVC-RETAINER,1,7000.0,Unit,Marketing Services Retainer,Marketing services engagement,7000.0,7000.0,7000.0
+OPP-2025-0163 Hargrove Diagnostics,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0167 Inglewood Bio,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0171 Jasper Cellular,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0175 Torrent Molecular,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0179 Pinnacle Reagents,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0183 Ashcroft BioPharma,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0187 Cardiff Life Sciences,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0191 Ellsworth Molecular,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0195 Bracknell Instruments,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0199 Camborne Sciences,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0202 Draper Reagents,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0203 Eastdale Bio,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0205 Fairbrook Labs,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0207 Glasson Molecular,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0209 Hexworthy Bio,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+OPP-2025-0211 Ipplepen Labs,SVC-RETAINER,1,6000.0,Unit,Marketing Services Retainer,Marketing services engagement,6000.0,6000.0,6000.0
+OPP-2025-0213 Kirdford Reagents,SVC-RETAINER,1,6000.0,Unit,Marketing Services Retainer,Marketing services engagement,6000.0,6000.0,6000.0
+OPP-2025-0215 Lostwithiel Bio,SVC-RETAINER,1,6000.0,Unit,Marketing Services Retainer,Marketing services engagement,6000.0,6000.0,6000.0
+OPP-2025-0217 Mawgan Molecular,SVC-RETAINER,1,6000.0,Unit,Marketing Services Retainer,Marketing services engagement,6000.0,6000.0,6000.0
+OPP-2025-0219 Newlyn Sciences,SVC-RETAINER,1,6000.0,Unit,Marketing Services Retainer,Marketing services engagement,6000.0,6000.0,6000.0
+OPP-2025-0221 Overstrand Bio,SVC-RETAINER,1,6000.0,Unit,Marketing Services Retainer,Marketing services engagement,6000.0,6000.0,6000.0
+OPP-2025-0223 Pendennis Labs,SVC-RETAINER,1,7500.0,Unit,Marketing Services Retainer,Marketing services engagement,7500.0,7500.0,7500.0
+OPP-2025-0225 Quenchwell Bio,SVC-RETAINER,1,7500.0,Unit,Marketing Services Retainer,Marketing services engagement,7500.0,7500.0,7500.0
+OPP-2025-0227 Restronguet Molecular,SVC-RETAINER,1,7500.0,Unit,Marketing Services Retainer,Marketing services engagement,7500.0,7500.0,7500.0
+OPP-2025-0229 Sennen Sciences,SVC-RETAINER,1,7500.0,Unit,Marketing Services Retainer,Marketing services engagement,7500.0,7500.0,7500.0
+OPP-2025-0231 Trebetherick Bio,SVC-RETAINER,1,7500.0,Unit,Marketing Services Retainer,Marketing services engagement,7500.0,7500.0,7500.0
+OPP-2025-0233 Upcott Molecular,SVC-RETAINER,1,7500.0,Unit,Marketing Services Retainer,Marketing services engagement,7500.0,7500.0,7500.0
+OPP-2025-0235 Veryan Labs,SVC-RETAINER,1,5000.0,Unit,Marketing Services Retainer,Marketing services engagement,5000.0,5000.0,5000.0
+CRM-OPP-2025-00300,SVC-RETAINER,1,32500.0,Unit,Marketing Services Retainer,Marketing services engagement,32500.0,32500.0,32500.0
+CRM-OPP-2025-00301,SVC-RETAINER,1,48000.0,Unit,Marketing Services Retainer,Marketing services engagement,48000.0,48000.0,48000.0
+CRM-OPP-2025-00302,SVC-RETAINER,1,72000.0,Unit,Marketing Services Retainer,Marketing services engagement,72000.0,72000.0,72000.0
+CRM-OPP-2025-00303,SVC-RETAINER,1,28000.0,Unit,Marketing Services Retainer,Marketing services engagement,28000.0,28000.0,28000.0
+CRM-OPP-2025-00304,SVC-RETAINER,1,54000.0,Unit,Marketing Services Retainer,Marketing services engagement,54000.0,54000.0,54000.0
+CRM-OPP-2025-00305,SVC-RETAINER,1,86000.0,Unit,Marketing Services Retainer,Marketing services engagement,86000.0,86000.0,86000.0
+CRM-OPP-2025-00306,SVC-RETAINER,1,22500.0,Unit,Marketing Services Retainer,Marketing services engagement,22500.0,22500.0,22500.0
+CRM-OPP-2025-00307,SVC-RETAINER,1,115000.0,Unit,Marketing Services Retainer,Marketing services engagement,115000.0,115000.0,115000.0
+CRM-OPP-2025-00308,SVC-RETAINER,1,40000.0,Unit,Marketing Services Retainer,Marketing services engagement,40000.0,40000.0,40000.0
+CRM-OPP-2025-00309,SVC-RETAINER,1,34500.0,Unit,Marketing Services Retainer,Marketing services engagement,34500.0,34500.0,34500.0
+CRM-OPP-2025-00310,SVC-RETAINER,1,138000.0,Unit,Marketing Services Retainer,Marketing services engagement,138000.0,138000.0,138000.0
+CRM-OPP-2025-00311,SVC-RETAINER,1,61000.0,Unit,Marketing Services Retainer,Marketing services engagement,61000.0,61000.0,61000.0
+CRM-OPP-2025-00312,SVC-RETAINER,1,46000.0,Unit,Marketing Services Retainer,Marketing services engagement,46000.0,46000.0,46000.0
+CRM-OPP-2025-00313,SVC-RETAINER,1,28500.0,Unit,Marketing Services Retainer,Marketing services engagement,28500.0,28500.0,28500.0
+CRM-OPP-2025-00314,SVC-RETAINER,1,52000.0,Unit,Marketing Services Retainer,Marketing services engagement,52000.0,52000.0,52000.0
+CRM-OPP-2025-00315,SVC-RETAINER,1,94000.0,Unit,Marketing Services Retainer,Marketing services engagement,94000.0,94000.0,94000.0
+CRM-OPP-2025-00316,SVC-RETAINER,1,165000.0,Unit,Marketing Services Retainer,Marketing services engagement,165000.0,165000.0,165000.0
+CRM-OPP-2025-00317,SVC-RETAINER,1,30000.0,Unit,Marketing Services Retainer,Marketing services engagement,30000.0,30000.0,30000.0
+CRM-OPP-2025-00318,SVC-RETAINER,1,76500.0,Unit,Marketing Services Retainer,Marketing services engagement,76500.0,76500.0,76500.0
+CRM-OPP-2025-00319,SVC-RETAINER,1,44000.0,Unit,Marketing Services Retainer,Marketing services engagement,44000.0,44000.0,44000.0
+CRM-OPP-2025-00320,SVC-RETAINER,1,102000.0,Unit,Marketing Services Retainer,Marketing services engagement,102000.0,102000.0,102000.0
+CRM-OPP-2025-00321,SVC-RETAINER,1,37500.0,Unit,Marketing Services Retainer,Marketing services engagement,37500.0,37500.0,37500.0
+CRM-OPP-2025-00322,SVC-RETAINER,1,58000.0,Unit,Marketing Services Retainer,Marketing services engagement,58000.0,58000.0,58000.0
+CRM-OPP-2025-00323,SVC-RETAINER,1,89000.0,Unit,Marketing Services Retainer,Marketing services engagement,89000.0,89000.0,89000.0
+CRM-OPP-2025-00324,SVC-RETAINER,1,42500.0,Unit,Marketing Services Retainer,Marketing services engagement,42500.0,42500.0,42500.0
+CRM-OPP-2025-00325,SVC-RETAINER,1,50000.0,Unit,Marketing Services Retainer,Marketing services engagement,50000.0,50000.0,50000.0
+CRM-OPP-2025-00326,SVC-RETAINER,1,67000.0,Unit,Marketing Services Retainer,Marketing services engagement,67000.0,67000.0,67000.0
+CRM-OPP-2025-00327,SVC-RETAINER,1,33000.0,Unit,Marketing Services Retainer,Marketing services engagement,33000.0,33000.0,33000.0
+CRM-OPP-2025-00328,SVC-RETAINER,1,148000.0,Unit,Marketing Services Retainer,Marketing services engagement,148000.0,148000.0,148000.0
+CRM-OPP-2025-00329,SVC-RETAINER,1,54500.0,Unit,Marketing Services Retainer,Marketing services engagement,54500.0,54500.0,54500.0
+CRM-OPP-2025-00330,SVC-RETAINER,1,71000.0,Unit,Marketing Services Retainer,Marketing services engagement,71000.0,71000.0,71000.0
+CRM-OPP-2025-00331,SVC-RETAINER,1,46500.0,Unit,Marketing Services Retainer,Marketing services engagement,46500.0,46500.0,46500.0
+CRM-OPP-2025-00332,SVC-RETAINER,1,38000.0,Unit,Marketing Services Retainer,Marketing services engagement,38000.0,38000.0,38000.0
+CRM-OPP-2025-00333,SVC-RETAINER,1,122000.0,Unit,Marketing Services Retainer,Marketing services engagement,122000.0,122000.0,122000.0
+CRM-OPP-2025-00334,SVC-RETAINER,1,27500.0,Unit,Marketing Services Retainer,Marketing services engagement,27500.0,27500.0,27500.0
+CRM-OPP-2025-00335,SVC-RETAINER,1,41000.0,Unit,Marketing Services Retainer,Marketing services engagement,41000.0,41000.0,41000.0
+CRM-OPP-2025-00336,SVC-RETAINER,1,98500.0,Unit,Marketing Services Retainer,Marketing services engagement,98500.0,98500.0,98500.0
+CRM-OPP-2025-00337,SVC-RETAINER,1,63000.0,Unit,Marketing Services Retainer,Marketing services engagement,63000.0,63000.0,63000.0
+CRM-OPP-2025-00338,SVC-RETAINER,1,59000.0,Unit,Marketing Services Retainer,Marketing services engagement,59000.0,59000.0,59000.0
+CRM-OPP-2025-00339,SVC-RETAINER,1,47500.0,Unit,Marketing Services Retainer,Marketing services engagement,47500.0,47500.0,47500.0
+CRM-OPP-2025-00340,SVC-RETAINER,1,52000.0,Unit,Marketing Services Retainer,Marketing services engagement,52000.0,52000.0,52000.0
+CRM-OPP-2025-00341,SVC-RETAINER,1,34500.0,Unit,Marketing Services Retainer,Marketing services engagement,34500.0,34500.0,34500.0
+CRM-OPP-2025-00342,SVC-RETAINER,1,39000.0,Unit,Marketing Services Retainer,Marketing services engagement,39000.0,39000.0,39000.0
+CRM-OPP-2025-00343,SVC-RETAINER,1,87000.0,Unit,Marketing Services Retainer,Marketing services engagement,87000.0,87000.0,87000.0
+CRM-OPP-2025-00344,SVC-RETAINER,1,56500.0,Unit,Marketing Services Retainer,Marketing services engagement,56500.0,56500.0,56500.0
+CRM-OPP-2025-00345,SVC-RETAINER,1,43000.0,Unit,Marketing Services Retainer,Marketing services engagement,43000.0,43000.0,43000.0
+CRM-OPP-2025-00346,SVC-RETAINER,1,65000.0,Unit,Marketing Services Retainer,Marketing services engagement,65000.0,65000.0,65000.0
+CRM-OPP-2025-00347,SVC-RETAINER,1,110000.0,Unit,Marketing Services Retainer,Marketing services engagement,110000.0,110000.0,110000.0
+CRM-OPP-2025-00348,SVC-RETAINER,1,48500.0,Unit,Marketing Services Retainer,Marketing services engagement,48500.0,48500.0,48500.0
+CRM-OPP-2025-00349,SVC-RETAINER,1,31500.0,Unit,Marketing Services Retainer,Marketing services engagement,31500.0,31500.0,31500.0
+CRM-OPP-2025-00350,SVC-RETAINER,1,40000.0,Unit,Marketing Services Retainer,Marketing services engagement,40000.0,40000.0,40000.0
+CRM-OPP-2025-00351,SVC-RETAINER,1,132000.0,Unit,Marketing Services Retainer,Marketing services engagement,132000.0,132000.0,132000.0
+CRM-OPP-2025-00352,SVC-RETAINER,1,36500.0,Unit,Marketing Services Retainer,Marketing services engagement,36500.0,36500.0,36500.0
+CRM-OPP-2025-00353,SVC-RETAINER,1,52500.0,Unit,Marketing Services Retainer,Marketing services engagement,52500.0,52500.0,52500.0
+CRM-OPP-2025-00354,SVC-RETAINER,1,158000.0,Unit,Marketing Services Retainer,Marketing services engagement,158000.0,158000.0,158000.0
+CRM-OPP-2025-00355,SVC-RETAINER,1,29500.0,Unit,Marketing Services Retainer,Marketing services engagement,29500.0,29500.0,29500.0
+CRM-OPP-2025-00356,SVC-RETAINER,1,74000.0,Unit,Marketing Services Retainer,Marketing services engagement,74000.0,74000.0,74000.0
+CRM-OPP-2025-00357,SVC-RETAINER,1,61500.0,Unit,Marketing Services Retainer,Marketing services engagement,61500.0,61500.0,61500.0
+CRM-OPP-2025-00358,SVC-RETAINER,1,103000.0,Unit,Marketing Services Retainer,Marketing services engagement,103000.0,103000.0,103000.0
+CRM-OPP-2025-00359,SVC-RETAINER,1,45500.0,Unit,Marketing Services Retainer,Marketing services engagement,45500.0,45500.0,45500.0
+CRM-OPP-2025-00360,SVC-RETAINER,1,37000.0,Unit,Marketing Services Retainer,Marketing services engagement,37000.0,37000.0,37000.0
+CRM-OPP-2025-00361,SVC-RETAINER,1,58000.0,Unit,Marketing Services Retainer,Marketing services engagement,58000.0,58000.0,58000.0
+CRM-OPP-2025-00362,SVC-RETAINER,1,30500.0,Unit,Marketing Services Retainer,Marketing services engagement,30500.0,30500.0,30500.0
+CRM-OPP-2025-00363,SVC-RETAINER,1,49000.0,Unit,Marketing Services Retainer,Marketing services engagement,49000.0,49000.0,49000.0
+CRM-OPP-2025-00364,SVC-RETAINER,1,44500.0,Unit,Marketing Services Retainer,Marketing services engagement,44500.0,44500.0,44500.0
+CRM-OPP-2025-00365,SVC-RETAINER,1,127000.0,Unit,Marketing Services Retainer,Marketing services engagement,127000.0,127000.0,127000.0
+CRM-OPP-2025-00366,SVC-RETAINER,1,35000.0,Unit,Marketing Services Retainer,Marketing services engagement,35000.0,35000.0,35000.0
+CRM-OPP-2025-00367,SVC-RETAINER,1,69000.0,Unit,Marketing Services Retainer,Marketing services engagement,69000.0,69000.0,69000.0
+CRM-OPP-2025-00368,SVC-RETAINER,1,41500.0,Unit,Marketing Services Retainer,Marketing services engagement,41500.0,41500.0,41500.0
+CRM-OPP-2025-00369,SVC-RETAINER,1,47000.0,Unit,Marketing Services Retainer,Marketing services engagement,47000.0,47000.0,47000.0
+CRM-OPP-2025-00370,SVC-RETAINER,1,33500.0,Unit,Marketing Services Retainer,Marketing services engagement,33500.0,33500.0,33500.0
+CRM-OPP-2025-00371,SVC-RETAINER,1,141000.0,Unit,Marketing Services Retainer,Marketing services engagement,141000.0,141000.0,141000.0
+CRM-OPP-2025-00372,SVC-RETAINER,1,54000.0,Unit,Marketing Services Retainer,Marketing services engagement,54000.0,54000.0,54000.0
+CRM-OPP-2025-00373,SVC-RETAINER,1,82500.0,Unit,Marketing Services Retainer,Marketing services engagement,82500.0,82500.0,82500.0
+CRM-OPP-2025-00374,SVC-RETAINER,1,38500.0,Unit,Marketing Services Retainer,Marketing services engagement,38500.0,38500.0,38500.0
+CRM-OPP-2025-00375,SVC-RETAINER,1,50500.0,Unit,Marketing Services Retainer,Marketing services engagement,50500.0,50500.0,50500.0
+CRM-OPP-2025-00376,SVC-RETAINER,1,32000.0,Unit,Marketing Services Retainer,Marketing services engagement,32000.0,32000.0,32000.0
+CRM-OPP-2025-00377,SVC-RETAINER,1,46000.0,Unit,Marketing Services Retainer,Marketing services engagement,46000.0,46000.0,46000.0
+CRM-OPP-2025-00378,SVC-RETAINER,1,28000.0,Unit,Marketing Services Retainer,Marketing services engagement,28000.0,28000.0,28000.0
+CRM-OPP-2025-00379,SVC-RETAINER,1,79000.0,Unit,Marketing Services Retainer,Marketing services engagement,79000.0,79000.0,79000.0
+CRM-OPP-2025-00380,SVC-RETAINER,1,56000.0,Unit,Marketing Services Retainer,Marketing services engagement,56000.0,56000.0,56000.0
+CRM-OPP-2025-00381,SVC-RETAINER,1,42000.0,Unit,Marketing Services Retainer,Marketing services engagement,42000.0,42000.0,42000.0
+CRM-OPP-2025-00382,SVC-RETAINER,1,95500.0,Unit,Marketing Services Retainer,Marketing services engagement,95500.0,95500.0,95500.0
+CRM-OPP-2025-00383,SVC-RETAINER,1,36000.0,Unit,Marketing Services Retainer,Marketing services engagement,36000.0,36000.0,36000.0
+CRM-OPP-2025-00384,SVC-RETAINER,1,63500.0,Unit,Marketing Services Retainer,Marketing services engagement,63500.0,63500.0,63500.0
+CRM-OPP-2025-00385,SVC-RETAINER,1,48000.0,Unit,Marketing Services Retainer,Marketing services engagement,48000.0,48000.0,48000.0
+CRM-OPP-2025-00386,SVC-RETAINER,1,134500.0,Unit,Marketing Services Retainer,Marketing services engagement,134500.0,134500.0,134500.0
+CRM-OPP-2025-00387,SVC-RETAINER,1,31000.0,Unit,Marketing Services Retainer,Marketing services engagement,31000.0,31000.0,31000.0
+CRM-OPP-2025-00388,SVC-RETAINER,1,52000.0,Unit,Marketing Services Retainer,Marketing services engagement,52000.0,52000.0,52000.0
+CRM-OPP-2025-00389,SVC-RETAINER,1,57500.0,Unit,Marketing Services Retainer,Marketing services engagement,57500.0,57500.0,57500.0
+CRM-OPP-2025-00390,SVC-RETAINER,1,107000.0,Unit,Marketing Services Retainer,Marketing services engagement,107000.0,107000.0,107000.0
+CRM-OPP-2025-00391,SVC-RETAINER,1,38000.0,Unit,Marketing Services Retainer,Marketing services engagement,38000.0,38000.0,38000.0
+CRM-OPP-2025-00392,SVC-RETAINER,1,44500.0,Unit,Marketing Services Retainer,Marketing services engagement,44500.0,44500.0,44500.0
+CRM-OPP-2025-00393,SVC-RETAINER,1,128000.0,Unit,Marketing Services Retainer,Marketing services engagement,128000.0,128000.0,128000.0
+CRM-OPP-2025-00394,SVC-RETAINER,1,50000.0,Unit,Marketing Services Retainer,Marketing services engagement,50000.0,50000.0,50000.0
+CRM-OPP-2025-00395,SVC-RETAINER,1,65000.0,Unit,Marketing Services Retainer,Marketing services engagement,65000.0,65000.0,65000.0
+CRM-OPP-2025-00396,SVC-RETAINER,1,26000.0,Unit,Marketing Services Retainer,Marketing services engagement,26000.0,26000.0,26000.0
+CRM-OPP-2025-00397,SVC-RETAINER,1,55500.0,Unit,Marketing Services Retainer,Marketing services engagement,55500.0,55500.0,55500.0
+CRM-OPP-2025-00398,SVC-RETAINER,1,67000.0,Unit,Marketing Services Retainer,Marketing services engagement,67000.0,67000.0,67000.0
+CRM-OPP-2025-00399,SVC-RETAINER,1,34000.0,Unit,Marketing Services Retainer,Marketing services engagement,34000.0,34000.0,34000.0
+CRM-OPP-2025-00400,SVC-RETAINER,1,46500.0,Unit,Marketing Services Retainer,Marketing services engagement,46500.0,46500.0,46500.0
+CRM-OPP-2025-00401,SVC-RETAINER,1,72000.0,Unit,Marketing Services Retainer,Marketing services engagement,72000.0,72000.0,72000.0
+CRM-OPP-2025-00402,SVC-RETAINER,1,115000.0,Unit,Marketing Services Retainer,Marketing services engagement,115000.0,115000.0,115000.0
+CRM-OPP-2025-00403,SVC-RETAINER,1,40500.0,Unit,Marketing Services Retainer,Marketing services engagement,40500.0,40500.0,40500.0
+CRM-OPP-2025-00404,SVC-RETAINER,1,61000.0,Unit,Marketing Services Retainer,Marketing services engagement,61000.0,61000.0,61000.0
+CRM-OPP-2025-00405,SVC-RETAINER,1,99000.0,Unit,Marketing Services Retainer,Marketing services engagement,99000.0,99000.0,99000.0
+CRM-OPP-2025-00406,SVC-RETAINER,1,47000.0,Unit,Marketing Services Retainer,Marketing services engagement,47000.0,47000.0,47000.0
+CRM-OPP-2025-00407,SVC-RETAINER,1,145000.0,Unit,Marketing Services Retainer,Marketing services engagement,145000.0,145000.0,145000.0
+CRM-OPP-2025-00408,SVC-RETAINER,1,43500.0,Unit,Marketing Services Retainer,Marketing services engagement,43500.0,43500.0,43500.0
+CRM-OPP-2025-00409,SVC-RETAINER,1,53000.0,Unit,Marketing Services Retainer,Marketing services engagement,53000.0,53000.0,53000.0
+CRM-OPP-2025-00410,SVC-RETAINER,1,58000.0,Unit,Marketing Services Retainer,Marketing services engagement,58000.0,58000.0,58000.0
+CRM-OPP-2025-00411,SVC-RETAINER,1,37500.0,Unit,Marketing Services Retainer,Marketing services engagement,37500.0,37500.0,37500.0
+CRM-OPP-2025-00412,SVC-RETAINER,1,49500.0,Unit,Marketing Services Retainer,Marketing services engagement,49500.0,49500.0,49500.0
+CRM-OPP-2025-00413,SVC-RETAINER,1,88000.0,Unit,Marketing Services Retainer,Marketing services engagement,88000.0,88000.0,88000.0
+CRM-OPP-2025-00414,SVC-RETAINER,1,60000.0,Unit,Marketing Services Retainer,Marketing services engagement,60000.0,60000.0,60000.0
+CRM-OPP-2025-00415,SVC-RETAINER,1,32500.0,Unit,Marketing Services Retainer,Marketing services engagement,32500.0,32500.0,32500.0
+CRM-OPP-2025-00416,SVC-RETAINER,1,54500.0,Unit,Marketing Services Retainer,Marketing services engagement,54500.0,54500.0,54500.0
+CRM-OPP-2025-00417,SVC-RETAINER,1,112000.0,Unit,Marketing Services Retainer,Marketing services engagement,112000.0,112000.0,112000.0
+CRM-OPP-2025-00418,SVC-RETAINER,1,39000.0,Unit,Marketing Services Retainer,Marketing services engagement,39000.0,39000.0,39000.0
+CRM-OPP-2025-00419,SVC-RETAINER,1,45500.0,Unit,Marketing Services Retainer,Marketing services engagement,45500.0,45500.0,45500.0
+CRM-OPP-2025-00420,SVC-RETAINER,1,101500.0,Unit,Marketing Services Retainer,Marketing services engagement,101500.0,101500.0,101500.0
+CRM-OPP-2025-00421,SVC-RETAINER,1,48500.0,Unit,Marketing Services Retainer,Marketing services engagement,48500.0,48500.0,48500.0
+CRM-OPP-2025-00422,SVC-RETAINER,1,29000.0,Unit,Marketing Services Retainer,Marketing services engagement,29000.0,29000.0,29000.0
+CRM-OPP-2025-00423,SVC-RETAINER,1,41000.0,Unit,Marketing Services Retainer,Marketing services engagement,41000.0,41000.0,41000.0
+CRM-OPP-2025-00424,SVC-RETAINER,1,93000.0,Unit,Marketing Services Retainer,Marketing services engagement,93000.0,93000.0,93000.0
+CRM-OPP-2025-00425,SVC-RETAINER,1,66500.0,Unit,Marketing Services Retainer,Marketing services engagement,66500.0,66500.0,66500.0
+CRM-OPP-2025-00426,SVC-RETAINER,1,59500.0,Unit,Marketing Services Retainer,Marketing services engagement,59500.0,59500.0,59500.0
+CRM-OPP-2025-00427,SVC-RETAINER,1,155500.0,Unit,Marketing Services Retainer,Marketing services engagement,155500.0,155500.0,155500.0
+CRM-OPP-2025-00428,SVC-RETAINER,1,42500.0,Unit,Marketing Services Retainer,Marketing services engagement,42500.0,42500.0,42500.0
+CRM-OPP-2025-00429,SVC-RETAINER,1,55000.0,Unit,Marketing Services Retainer,Marketing services engagement,55000.0,55000.0,55000.0
+CRM-OPP-2025-00430,SVC-RETAINER,1,36500.0,Unit,Marketing Services Retainer,Marketing services engagement,36500.0,36500.0,36500.0

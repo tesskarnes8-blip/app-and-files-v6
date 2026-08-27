@@ -1,0 +1,31 @@
+# Prior-month variance trend confirms billing-vs-attribution discrepancies are structural (timing methodology).
+# Prepared by: Grace Feldman, Director, Analytics & Reporting (grace.feldman@thornfieldlsm.com)
+# Source: Nov + Dec 2025 Finance Sales Invoice register vs. Marketing Attribution Dashboard, touch-timing basis.
+# Scope: 24 clients with continuous Nov + Dec activity in both systems. Variance_Pct = (Attribution − Finance) / Finance, signed.
+Client_Name,Nov_Finance_Billed_USD,Nov_Attribution_USD,Nov_Variance_Pct,Dec_Finance_Billed_USD,Dec_Attribution_USD,Dec_Variance_Pct,Variance_Explanation
+Pennywell Life Sciences,12400,12200,-1.61%,12400,12183,-1.75%,Typical billing-vs-attribution timing variance; multi-touch methodology gap within normal 1.5–2% band.
+Belhurst Sciences,7120,6988,-1.85%,7340,7215,-1.70%,Structural timing variance; touch-window basis vs. invoice-posting basis.
+Fairview Reagents,18200,17900,-1.65%,21600,21190,-1.90%,Structural timing variance; multi-touch weighted attribution lags Sales Invoice posting.
+Silverbrook Bioscience,10100,9928,-1.70%,9900,9722,-1.80%,Typical timing variance in the normal 1.5–2% band.
+Beckhurst Pharma Services,4200,4135,-1.55%,4200,4133,-1.60%,Structural methodology gap; attribution basis vs. billing basis.
+Farnsley Diagnostics,24300,23838,-1.90%,26100,25617,-1.85%,Structural timing variance; multi-touch weighting on regulated-client placements.
+Marlstone Bioscience,61100,60049,-1.72%,64000,62880,-1.75%,Typical billing-vs-attribution timing variance.
+Steeplechase Diagnostics,8900,8767,-1.49%,9150,8985,-1.80%,Structural timing variance in the normal 1.5–2% band.
+Hallowfield Bioscience,12050,11857,-1.60%,12400,12183,-1.75%,Typical timing variance; touch-window basis differs from invoice-posting basis.
+Trenton Labware,14200,13959,-1.70%,14200,13944,-1.80%,Structural methodology gap within normal 1.5–2% band.
+Fenland Bioanalytics,6300,6180,-1.90%,6300,6190,-1.75%,Structural timing variance; time-decay weighting on late-quarter touches.
+Kingsford Cellular,20150,19818,-1.65%,21800,21397,-1.85%,Typical timing variance in the normal 1.5–2% band.
+Millbrook Assay Systems,8000,7880,-1.50%,8000,7860,-1.75%,Structural methodology gap; touch-basis vs. posting-basis.
+Norwich Genomics,13900,13650,-1.80%,14200,13959,-1.70%,Structural timing variance; multi-touch weighting on retainer + media mix.
+Braemar Life Sciences,10250,10060,-1.85%,10600,10399,-1.90%,Typical timing variance in the normal 1.5–2% band.
+Perrimore Instrumentation,25200,24772,-1.70%,28400,27875,-1.85%,"Structural timing variance; retainer + project + media mix, multi-touch basis."
+Redstone Assays,9300,9151,-1.60%,9300,9137,-1.75%,Structural methodology gap; touch-window basis.
+Halston Molecular Diagnostics,17100,16801,-1.75%,17900,17560,-1.90%,Typical timing variance; late-touch coverage on Dec placements.
+Radstock Diagnostics,12000,11778,-1.85%,12000,11796,-1.70%,Structural timing variance within normal 1.5–2% band.
+Kingsley Molecular,22150,21796,-1.60%,23000,22598,-1.75%,"Typical timing variance; retainer + project mix, multi-touch basis."
+Ingleton Diagnostics,13200,12976,-1.70%,13200,12956,-1.85%,Structural methodology gap; touch-basis vs. posting-basis.
+Norbury Bioimaging,17400,17069,-1.90%,18200,17882,-1.75%,Structural timing variance; position-based attribution on regulated-client placements.
+Draymere Sciences,9750,9589,-1.65%,10000,9820,-1.80%,Typical timing variance in the normal 1.5–2% band.
+Glenmore Diagnostics,20400,20043,-1.75%,21900,21484,-1.90%,Structural timing variance; multi-touch weighting on retainer + project mix.
+# Aggregate observation: mean absolute Nov variance = 1.71%; mean absolute Dec variance = 1.79%. Distribution is tight and directionally consistent (attribution below billing across all 24 rows). The variance pattern is consistent with a structural methodology offset rather than any client-specific billing event.
+# Note: Nov/Dec figures in this file are a monthly trend sample only and do not sum to any client's full-quarter attribution total (see Q4_attribution_dashboard_export.csv), which separately reflects October activity under the same touch-timing methodology.
