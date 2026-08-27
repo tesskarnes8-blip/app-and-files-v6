@@ -1,0 +1,123 @@
+name,customer,company,posting_date,due_date,debit_to,currency,selling_price_list,is_return,grand_total,outstanding_amount,payment_terms_template,status,net_total,total_taxes_and_charges
+ACC-SINV-2025-00001,Fenwick Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,8500,0,,Paid,8500,0
+ACC-SINV-2025-00002,Fenwick Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,8500,0,,Paid,8500,0
+ACC-SINV-2025-00003,Fenwick Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,8500,8500,,Unpaid,8500,0
+ACC-SINV-2025-00004,Marlstone Bioscience,"Thornfield Life Sciences Marketing, Inc.",2025-11-22,2025-12-22,Debtors,USD,Standard Selling,1,-4500,0,,Return,-4500,0
+ACC-SINV-2025-00005,Pennywell Life Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,12400.0,0,,Paid,12400.0,0
+ACC-SINV-2025-00006,Pennywell Life Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,12400.0,0,,Paid,12400.0,0
+ACC-SINV-2025-00007,Pennywell Life Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,12400.0,0,,Paid,12400.0,0
+ACC-SINV-2025-00008,Belhurst Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,6750.0,0,,Paid,6750.0,0
+ACC-SINV-2025-00009,Belhurst Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,7120.0,0,,Paid,7120.0,0
+ACC-SINV-2025-00010,Belhurst Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,3670.0,0,,Paid,3670.0,0
+ACC-SINV-2025-00012,Fairview Reagents,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,9100.0,0,,Paid,9100.0,0
+ACC-SINV-2025-00014,Fairview Reagents,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,18200.0,0,,Paid,18200.0,0
+ACC-SINV-2025-00015,Fairview Reagents,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,10800.0,0,,Paid,10800.0,0
+ACC-SINV-2025-00017,Silverbrook Bioscience,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,9850.0,0,,Paid,9850.0,0
+ACC-SINV-2025-00018,Silverbrook Bioscience,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,10100.0,0,,Paid,10100.0,0
+ACC-SINV-2025-00019,Silverbrook Bioscience,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,9900.0,0,,Paid,9900.0,0
+ACC-SINV-2025-00020,Beckhurst Pharma Services,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,4200.0,0,,Paid,4200.0,0
+ACC-SINV-2025-00021,Beckhurst Pharma Services,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,4200.0,0,,Paid,4200.0,0
+ACC-SINV-2025-00022,Beckhurst Pharma Services,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,4200.0,0,,Paid,4200.0,0
+ACC-SINV-2025-00023,Farnsley Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,11250.0,0,,Paid,11250.0,0
+ACC-SINV-2025-00025,Farnsley Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,12150.0,0,,Paid,12150.0,0
+ACC-SINV-2025-00027,Farnsley Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,13050.0,0,,Paid,13050.0,0
+ACC-SINV-2025-00029,Steeplechase Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,8900.0,0,,Paid,8900.0,0
+ACC-SINV-2025-00030,Steeplechase Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,8900.0,0,,Paid,8900.0,0
+ACC-SINV-2025-00031,Steeplechase Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,9150.0,0,,Paid,9150.0,0
+ACC-SINV-2025-00032,Hallowfield Bioscience,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,11700.0,0,,Paid,11700.0,0
+ACC-SINV-2025-00033,Hallowfield Bioscience,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,12050.0,0,,Paid,12050.0,0
+ACC-SINV-2025-00034,Hallowfield Bioscience,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,6200.0,0,,Paid,6200.0,0
+ACC-SINV-2025-00036,Trenton Labware,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,14200.0,0,,Paid,14200.0,0
+ACC-SINV-2025-00037,Trenton Labware,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,14200.0,0,,Paid,14200.0,0
+ACC-SINV-2025-00038,Trenton Labware,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,14200.0,0,,Paid,14200.0,0
+ACC-SINV-2025-00039,Fenland Bioanalytics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,6300.0,0,,Paid,6300.0,0
+ACC-SINV-2025-00040,Fenland Bioanalytics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,6300.0,0,,Paid,6300.0,0
+ACC-SINV-2025-00041,Fenland Bioanalytics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,6300.0,0,,Paid,6300.0,0
+ACC-SINV-2025-00042,Kingsford Cellular,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,9700.0,0,,Paid,9700.0,0
+ACC-SINV-2025-00044,Kingsford Cellular,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,10075.0,0,,Paid,10075.0,0
+ACC-SINV-2025-00046,Kingsford Cellular,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,10900.0,0,,Paid,10900.0,0
+ACC-SINV-2025-00048,Millbrook Assay Systems,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,8000.0,0,,Paid,8000.0,0
+ACC-SINV-2025-00049,Millbrook Assay Systems,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,8000.0,0,,Paid,8000.0,0
+ACC-SINV-2025-00050,Millbrook Assay Systems,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,8000.0,0,,Paid,8000.0,0
+ACC-SINV-2025-00051,Pennington Cell Therapy,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,5500.0,0,,Paid,5500.0,0
+ACC-SINV-2025-00052,Pennington Cell Therapy,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,5500.0,0,,Paid,5500.0,0
+ACC-SINV-2025-00053,Pennington Cell Therapy,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,5500.0,0,,Paid,5500.0,0
+ACC-SINV-2025-00054,Norwich Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,13600.0,0,,Paid,13600.0,0
+ACC-SINV-2025-00055,Norwich Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,13900.0,0,,Paid,13900.0,0
+ACC-SINV-2025-00056,Norwich Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,7100.0,0,,Paid,7100.0,0
+ACC-SINV-2025-00058,Braemar Life Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,10250.0,0,,Paid,10250.0,0
+ACC-SINV-2025-00059,Braemar Life Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,10250.0,0,,Paid,10250.0,0
+ACC-SINV-2025-00060,Braemar Life Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,10600.0,0,,Paid,10600.0,0
+ACC-SINV-2025-00061,Caldwell Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,15360.0,0,,Paid,15360.0,0
+ACC-SINV-2025-00062,Caldwell Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,15360.0,0,,Paid,15360.0,0
+ACC-SINV-2025-00063,Caldwell Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,15360.0,0,,Paid,15360.0,0
+ACC-SINV-2025-00064,Perrimore Instrumentation,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,12400.0,0,,Paid,12400.0,0
+ACC-SINV-2025-00066,Perrimore Instrumentation,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,12600.0,0,,Paid,12600.0,0
+ACC-SINV-2025-00068,Perrimore Instrumentation,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,9466.66,0,,Paid,9466.66,0
+ACC-SINV-2025-00069,Perrimore Instrumentation,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,9466.67,0,,Paid,9466.67,0
+ACC-SINV-2025-00071,Quilford Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,7650.0,0,,Paid,7650.0,0
+ACC-SINV-2025-00072,Quilford Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,7650.0,0,,Paid,7650.0,0
+ACC-SINV-2025-00073,Quilford Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,7650.0,0,,Paid,7650.0,0
+ACC-SINV-2025-00074,Redstone Assays,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,9300.0,0,,Paid,9300.0,0
+ACC-SINV-2025-00075,Redstone Assays,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,9300.0,0,,Paid,9300.0,0
+ACC-SINV-2025-00076,Redstone Assays,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,9300.0,0,,Paid,9300.0,0
+ACC-SINV-2025-00077,Halston Molecular Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,16400.0,0,,Paid,16400.0,0
+ACC-SINV-2025-00078,Halston Molecular Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,8550.0,0,,Paid,8550.0,0
+ACC-SINV-2025-00080,Halston Molecular Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,8950.0,0,,Paid,8950.0,0
+ACC-SINV-2025-00082,Radstock Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,12000.0,0,,Paid,12000.0,0
+ACC-SINV-2025-00083,Radstock Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,12000.0,0,,Paid,12000.0,0
+ACC-SINV-2025-00084,Radstock Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,12000.0,0,,Paid,12000.0,0
+ACC-SINV-2025-00085,Verwood Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,5900.0,0,,Paid,5900.0,0
+ACC-SINV-2025-00086,Verwood Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,6200.0,0,,Paid,6200.0,0
+ACC-SINV-2025-00087,Verwood Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,6500.0,0,,Paid,6500.0,0
+ACC-SINV-2025-00088,Verrick Microbiology,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,8750.0,0,,Paid,8750.0,0
+ACC-SINV-2025-00089,Verrick Microbiology,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,8750.0,0,,Paid,8750.0,0
+ACC-SINV-2025-00090,Verrick Microbiology,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,8750.0,0,,Paid,8750.0,0
+ACC-SINV-2025-00091,Kingsley Molecular,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,10650.0,0,,Paid,10650.0,0
+ACC-SINV-2025-00093,Kingsley Molecular,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,11075.0,0,,Paid,11075.0,0
+ACC-SINV-2025-00095,Kingsley Molecular,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,11500.0,0,,Paid,11500.0,0
+ACC-SINV-2025-00097,Ashford Scientific Instruments,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,9600.0,0,,Paid,9600.0,0
+ACC-SINV-2025-00098,Ashford Scientific Instruments,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,9600.0,0,,Paid,9600.0,0
+ACC-SINV-2025-00099,Ashford Scientific Instruments,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,9600.0,0,,Paid,9600.0,0
+ACC-SINV-2025-00100,Larkspur Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,4800.0,0,,Paid,4800.0,0
+ACC-SINV-2025-00101,Larkspur Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,4800.0,0,,Paid,4800.0,0
+ACC-SINV-2025-00102,Larkspur Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,4800.0,0,,Paid,4800.0,0
+ACC-SINV-2025-00103,Ingleton Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,13200.0,0,,Paid,13200.0,0
+ACC-SINV-2025-00104,Ingleton Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,13200.0,0,,Paid,13200.0,0
+ACC-SINV-2025-00105,Ingleton Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,13200.0,0,,Paid,13200.0,0
+ACC-SINV-2025-00106,Northlake Bioinstruments,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,8140.0,0,,Paid,8140.0,0
+ACC-SINV-2025-00107,Northlake Bioinstruments,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,8470.0,0,,Paid,8470.0,0
+ACC-SINV-2025-00108,Northlake Bioinstruments,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,9350.0,0,,Paid,9350.0,0
+ACC-SINV-2025-00109,Larchfield Bioanalytics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,7400.0,0,,Paid,7400.0,0
+ACC-SINV-2025-00110,Larchfield Bioanalytics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,7400.0,0,,Paid,7400.0,0
+ACC-SINV-2025-00111,Larchfield Bioanalytics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,7650.0,0,,Paid,7650.0,0
+ACC-SINV-2025-00112,Norbury Bioimaging,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,16900.0,0,,Paid,16900.0,0
+ACC-SINV-2025-00113,Norbury Bioimaging,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,8700.0,0,,Paid,8700.0,0
+ACC-SINV-2025-00115,Norbury Bioimaging,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,9100.0,0,,Paid,9100.0,0
+ACC-SINV-2025-00117,Barrowfield Biolabs,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,10800.0,0,,Paid,10800.0,0
+ACC-SINV-2025-00118,Barrowfield Biolabs,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,10800.0,0,,Paid,10800.0,0
+ACC-SINV-2025-00119,Barrowfield Biolabs,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,10800.0,0,,Paid,10800.0,0
+ACC-SINV-2025-00120,Selwood Cell Systems,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,6000.0,0,,Paid,6000.0,0
+ACC-SINV-2025-00121,Selwood Cell Systems,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,6000.0,0,,Paid,6000.0,0
+ACC-SINV-2025-00122,Selwood Cell Systems,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,6000.0,0,,Paid,6000.0,0
+ACC-SINV-2025-00123,Draymere Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,9500.0,0,,Paid,9500.0,0
+ACC-SINV-2025-00124,Draymere Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,9750.0,0,,Paid,9750.0,0
+ACC-SINV-2025-00125,Draymere Sciences,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,10000.0,0,,Paid,10000.0,0
+ACC-SINV-2025-00126,Wrenfield Scientific,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,15533.0,0,,Paid,15533.0,0
+ACC-SINV-2025-00127,Wrenfield Scientific,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,15533.0,0,,Paid,15533.0,0
+ACC-SINV-2025-00128,Wrenfield Scientific,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,15534.0,0,,Paid,15534.0,0
+ACC-SINV-2025-00129,Marchmont Analytical Systems,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,14600.0,0,,Paid,14600.0,0
+ACC-SINV-2025-00130,Marchmont Analytical Systems,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,14600.0,0,,Paid,14600.0,0
+ACC-SINV-2025-00131,Marchmont Analytical Systems,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,14600.0,0,,Paid,14600.0,0
+ACC-SINV-2025-00132,Coppergate Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,8200.0,0,,Paid,8200.0,0
+ACC-SINV-2025-00133,Coppergate Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,8200.0,0,,Paid,8200.0,0
+ACC-SINV-2025-00134,Coppergate Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,8700.0,0,,Paid,8700.0,0
+ACC-SINV-2025-00135,Everleigh Bioinstruments,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,11100.0,0,,Paid,11100.0,0
+ACC-SINV-2025-00136,Everleigh Bioinstruments,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,11100.0,0,,Paid,11100.0,0
+ACC-SINV-2025-00137,Everleigh Bioinstruments,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,11100.0,0,,Paid,11100.0,0
+ACC-SINV-2025-00138,Glenmore Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,9900.0,0,,Paid,9900.0,0
+ACC-SINV-2025-00140,Glenmore Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,10200.0,0,,Paid,10200.0,0
+ACC-SINV-2025-00142,Glenmore Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,10950.0,0,,Paid,10950.0,0
+ACC-SINV-2025-00144,Marlstone Bioscience,"Thornfield Life Sciences Marketing, Inc.",2025-10-01,2025-10-31,Debtors,USD,Standard Selling,0,62300.0,0,,Paid,62300.0,0
+ACC-SINV-2025-00145,Marlstone Bioscience,"Thornfield Life Sciences Marketing, Inc.",2025-11-01,2025-11-30,Debtors,USD,Standard Selling,0,61100.0,0,,Paid,61100.0,0
+ACC-SINV-2025-00146,Marlstone Bioscience,"Thornfield Life Sciences Marketing, Inc.",2025-12-01,2025-12-31,Debtors,USD,Standard Selling,0,64000.0,0,,Paid,64000.0,0

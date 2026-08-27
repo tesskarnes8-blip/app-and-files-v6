@@ -1,0 +1,31 @@
+name,customer,company,transaction_date,delivery_date,order_type,currency,selling_price_list
+SO-2025-0079,Halstead Analytical,"Thornfield Life Sciences Marketing, Inc.",2025-02-01,2027-02-01,Sales,USD,Standard Selling
+SO-2024-0176,Ipswich Molecular,"Thornfield Life Sciences Marketing, Inc.",2024-05-15,2026-05-15,Sales,USD,Standard Selling
+SO-2024-0231,Marlstone Bioscience,"Thornfield Life Sciences Marketing, Inc.",2024-07-01,2026-07-01,Sales,USD,Standard Selling
+SO-2025-0121,Weybridge Scientific,"Thornfield Life Sciences Marketing, Inc.",2025-03-15,2027-03-15,Sales,USD,Standard Selling
+SO-2025-0148,Petrichor Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-05-01,2027-05-01,Sales,USD,Standard Selling
+SO-2024-0287,Cordwell Lab Systems,"Thornfield Life Sciences Marketing, Inc.",2024-09-01,2026-09-01,Sales,USD,Standard Selling
+SO-2024-0195,Pennington Cell Therapy,"Thornfield Life Sciences Marketing, Inc.",2024-06-01,2026-06-01,Sales,USD,Standard Selling
+SO-2024-0339,Dunstan Bioanalytics,"Thornfield Life Sciences Marketing, Inc.",2024-11-15,2026-11-15,Sales,USD,Standard Selling
+SO-2024-0261,Caldwell Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2024-08-01,2026-08-01,Sales,USD,Standard Selling
+SO-2025-0073,Newforge Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-02-01,2027-02-01,Sales,USD,Standard Selling
+SO-2024-0304,Ashland Reagent Group,"Thornfield Life Sciences Marketing, Inc.",2024-10-01,2026-10-01,Sales,USD,Standard Selling
+SO-2025-0041,Milford Bioanalytics,"Thornfield Life Sciences Marketing, Inc.",2025-01-15,2027-01-15,Sales,USD,Standard Selling
+SO-2024-0132,Hollowfield Therapeutics,"Thornfield Life Sciences Marketing, Inc.",2024-04-01,2026-04-01,Sales,USD,Standard Selling
+SO-2024-0159,Whitepine Instruments,"Thornfield Life Sciences Marketing, Inc.",2024-04-15,2026-04-15,Sales,USD,Standard Selling
+SO-2024-0233,Cypress Cell Systems,"Thornfield Life Sciences Marketing, Inc.",2024-07-01,2026-07-01,Sales,USD,Standard Selling
+SO-2024-0212,Ashford Scientific Instruments,"Thornfield Life Sciences Marketing, Inc.",2024-06-15,2026-06-15,Sales,USD,Standard Selling
+SO-2024-0256,Hemsworth Bioinstruments,"Thornfield Life Sciences Marketing, Inc.",2024-08-01,2026-08-01,Sales,USD,Standard Selling
+SO-2025-0389,Northlake Bioinstruments,"Thornfield Life Sciences Marketing, Inc.",2024-12-05,2025-12-05,Sales,USD,Standard Selling
+SO-2024-0296,Larchfield Bioanalytics,"Thornfield Life Sciences Marketing, Inc.",2024-02-15,2026-02-14,Sales,USD,Standard Selling
+SO-2024-0322,Corvid Cellular,"Thornfield Life Sciences Marketing, Inc.",2024-11-01,2026-11-01,Sales,USD,Standard Selling
+SO-2025-0088,Elmscroft Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2025-02-15,2027-02-15,Sales,USD,Standard Selling
+SO-2024-0167,Ashgrove Biolabs,"Thornfield Life Sciences Marketing, Inc.",2024-05-01,2026-05-01,Sales,USD,Standard Selling
+SO-2024-0311,Sagebrook Genomics,"Thornfield Life Sciences Marketing, Inc.",2024-10-15,2026-10-15,Sales,USD,Standard Selling
+SO-2025-0417,Fenwick Genomics,"Thornfield Life Sciences Marketing, Inc.",2025-04-01,2026-03-31,Sales,USD,Standard Selling
+SO-2024-0114,Wrenfield Scientific,"Thornfield Life Sciences Marketing, Inc.",2024-03-27,2026-03-27,Sales,USD,Standard Selling
+SO-2024-0243,Rothburn LabTech,"Thornfield Life Sciences Marketing, Inc.",2024-07-15,2026-07-15,Sales,USD,Standard Selling
+SO-2025-0031,Palladium Reagents,"Thornfield Life Sciences Marketing, Inc.",2025-01-10,2027-01-10,Sales,USD,Standard Selling
+SO-2024-0269,Thistledown Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2024-08-20,2026-08-20,Sales,USD,Standard Selling
+SO-2025-0096,Alderway BioResearch,"Thornfield Life Sciences Marketing, Inc.",2025-03-01,2027-03-01,Sales,USD,Standard Selling
+SO-2024-0201,Kettlewell Diagnostics,"Thornfield Life Sciences Marketing, Inc.",2024-06-10,2026-06-10,Sales,USD,Standard Selling

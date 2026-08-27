@@ -1,0 +1,2 @@
+parent,item_code,qty,rate,uom,item_name,description,amount,discount_percentage,base_rate,base_amount
+SAL-QTN-2026-00001,SVC-MEDIA-MGMT,1,149400,Unit,Managed Media Services,"Multi-year renewal — 24-month term, $180,000 base with 17% combined discount",149400,17,180000,180000

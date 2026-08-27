@@ -1,0 +1,121 @@
+name,payment_type,posting_date,company,party_type,party,paid_from,paid_from_account_currency,paid_to,paid_to_account_currency,paid_amount,received_amount,reference_no,reference_date
+ACC-PAY-2025-00001,Receive,2025-10-01,"Thornfield Life Sciences Marketing, Inc.",Customer,Fenwick Genomics,Debtors,USD,Cash,USD,8500,8500,ACH-FG-OCT2025,2025-10-01
+ACC-PAY-2025-00002,Receive,2025-11-03,"Thornfield Life Sciences Marketing, Inc.",Customer,Fenwick Genomics,Debtors,USD,Cash,USD,8500,8500,ACH-FG-NOV2025,2025-11-03
+ACC-PAY-2025-00003,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Pennywell Life Sciences,Debtors,USD,Cash,USD,12400.0,12400.0,ACH-0004,2025-11-15
+ACC-PAY-2025-00004,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Pennywell Life Sciences,Debtors,USD,Cash,USD,12400.0,12400.0,ACH-0005,2025-12-15
+ACC-PAY-2025-00005,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Pennywell Life Sciences,Debtors,USD,Cash,USD,12400.0,12400.0,ACH-0006,2026-01-12
+ACC-PAY-2025-00006,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Belhurst Sciences,Debtors,USD,Cash,USD,6750.0,6750.0,ACH-0007,2025-11-15
+ACC-PAY-2025-00007,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Belhurst Sciences,Debtors,USD,Cash,USD,7120.0,7120.0,ACH-0008,2025-12-15
+ACC-PAY-2025-00008,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Belhurst Sciences,Debtors,USD,Cash,USD,3670.0,3670.0,ACH-0009,2026-01-12
+ACC-PAY-2025-00010,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Fairview Reagents,Debtors,USD,Cash,USD,9100.0,9100.0,ACH-0011,2025-11-15
+ACC-PAY-2025-00012,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Fairview Reagents,Debtors,USD,Cash,USD,18200.0,18200.0,ACH-0013,2025-12-15
+ACC-PAY-2025-00013,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Fairview Reagents,Debtors,USD,Cash,USD,10800.0,10800.0,ACH-0014,2026-01-12
+ACC-PAY-2025-00015,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Silverbrook Bioscience,Debtors,USD,Cash,USD,9850.0,9850.0,ACH-0016,2025-11-15
+ACC-PAY-2025-00016,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Silverbrook Bioscience,Debtors,USD,Cash,USD,10100.0,10100.0,ACH-0017,2025-12-15
+ACC-PAY-2025-00017,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Silverbrook Bioscience,Debtors,USD,Cash,USD,9900.0,9900.0,ACH-0018,2026-01-12
+ACC-PAY-2025-00018,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Beckhurst Pharma Services,Debtors,USD,Cash,USD,4200.0,4200.0,ACH-0019,2025-11-15
+ACC-PAY-2025-00019,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Beckhurst Pharma Services,Debtors,USD,Cash,USD,4200.0,4200.0,ACH-0020,2025-12-15
+ACC-PAY-2025-00020,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Beckhurst Pharma Services,Debtors,USD,Cash,USD,4200.0,4200.0,ACH-0021,2026-01-12
+ACC-PAY-2025-00021,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Farnsley Diagnostics,Debtors,USD,Cash,USD,11250.0,11250.0,ACH-0022,2025-11-15
+ACC-PAY-2025-00023,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Farnsley Diagnostics,Debtors,USD,Cash,USD,12150.0,12150.0,ACH-0024,2025-12-15
+ACC-PAY-2025-00025,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Farnsley Diagnostics,Debtors,USD,Cash,USD,13050.0,13050.0,ACH-0026,2026-01-12
+ACC-PAY-2025-00027,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Steeplechase Diagnostics,Debtors,USD,Cash,USD,8900.0,8900.0,ACH-0028,2025-11-15
+ACC-PAY-2025-00028,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Steeplechase Diagnostics,Debtors,USD,Cash,USD,8900.0,8900.0,ACH-0029,2025-12-15
+ACC-PAY-2025-00029,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Steeplechase Diagnostics,Debtors,USD,Cash,USD,9150.0,9150.0,ACH-0030,2026-01-12
+ACC-PAY-2025-00030,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Hallowfield Bioscience,Debtors,USD,Cash,USD,11700.0,11700.0,ACH-0031,2025-11-15
+ACC-PAY-2025-00031,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Hallowfield Bioscience,Debtors,USD,Cash,USD,12050.0,12050.0,ACH-0032,2025-12-15
+ACC-PAY-2025-00032,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Hallowfield Bioscience,Debtors,USD,Cash,USD,6200.0,6200.0,ACH-0033,2026-01-12
+ACC-PAY-2025-00034,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Trenton Labware,Debtors,USD,Cash,USD,14200.0,14200.0,ACH-0035,2025-11-15
+ACC-PAY-2025-00035,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Trenton Labware,Debtors,USD,Cash,USD,14200.0,14200.0,ACH-0036,2025-12-15
+ACC-PAY-2025-00036,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Trenton Labware,Debtors,USD,Cash,USD,14200.0,14200.0,ACH-0037,2026-01-12
+ACC-PAY-2025-00037,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Fenland Bioanalytics,Debtors,USD,Cash,USD,6300.0,6300.0,ACH-0038,2025-11-15
+ACC-PAY-2025-00038,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Fenland Bioanalytics,Debtors,USD,Cash,USD,6300.0,6300.0,ACH-0039,2025-12-15
+ACC-PAY-2025-00039,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Fenland Bioanalytics,Debtors,USD,Cash,USD,6300.0,6300.0,ACH-0040,2026-01-12
+ACC-PAY-2025-00040,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Kingsford Cellular,Debtors,USD,Cash,USD,9700.0,9700.0,ACH-0041,2025-11-15
+ACC-PAY-2025-00042,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Kingsford Cellular,Debtors,USD,Cash,USD,10075.0,10075.0,ACH-0043,2025-12-15
+ACC-PAY-2025-00044,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Kingsford Cellular,Debtors,USD,Cash,USD,10900.0,10900.0,ACH-0045,2026-01-12
+ACC-PAY-2025-00046,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Millbrook Assay Systems,Debtors,USD,Cash,USD,8000.0,8000.0,ACH-0047,2025-11-15
+ACC-PAY-2025-00047,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Millbrook Assay Systems,Debtors,USD,Cash,USD,8000.0,8000.0,ACH-0048,2025-12-15
+ACC-PAY-2025-00048,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Millbrook Assay Systems,Debtors,USD,Cash,USD,8000.0,8000.0,ACH-0049,2026-01-12
+ACC-PAY-2025-00049,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Pennington Cell Therapy,Debtors,USD,Cash,USD,5500.0,5500.0,ACH-0050,2025-11-15
+ACC-PAY-2025-00050,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Pennington Cell Therapy,Debtors,USD,Cash,USD,5500.0,5500.0,ACH-0051,2025-12-15
+ACC-PAY-2025-00051,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Pennington Cell Therapy,Debtors,USD,Cash,USD,5500.0,5500.0,ACH-0052,2026-01-12
+ACC-PAY-2025-00052,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Norwich Genomics,Debtors,USD,Cash,USD,13600.0,13600.0,ACH-0053,2025-11-15
+ACC-PAY-2025-00053,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Norwich Genomics,Debtors,USD,Cash,USD,13900.0,13900.0,ACH-0054,2025-12-15
+ACC-PAY-2025-00054,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Norwich Genomics,Debtors,USD,Cash,USD,7100.0,7100.0,ACH-0055,2026-01-12
+ACC-PAY-2025-00056,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Braemar Life Sciences,Debtors,USD,Cash,USD,10250.0,10250.0,ACH-0057,2025-11-15
+ACC-PAY-2025-00057,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Braemar Life Sciences,Debtors,USD,Cash,USD,10250.0,10250.0,ACH-0058,2025-12-15
+ACC-PAY-2025-00058,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Braemar Life Sciences,Debtors,USD,Cash,USD,10600.0,10600.0,ACH-0059,2026-01-12
+ACC-PAY-2025-00059,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Caldwell Diagnostics,Debtors,USD,Cash,USD,15360.0,15360.0,ACH-0060,2025-11-15
+ACC-PAY-2025-00060,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Caldwell Diagnostics,Debtors,USD,Cash,USD,15360.0,15360.0,ACH-0061,2025-12-15
+ACC-PAY-2025-00061,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Caldwell Diagnostics,Debtors,USD,Cash,USD,15360.0,15360.0,ACH-0062,2026-01-12
+ACC-PAY-2025-00062,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Perrimore Instrumentation,Debtors,USD,Cash,USD,12400.0,12400.0,ACH-0063,2025-11-15
+ACC-PAY-2025-00064,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Perrimore Instrumentation,Debtors,USD,Cash,USD,12600.0,12600.0,ACH-0065,2025-12-15
+ACC-PAY-2025-00066,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Perrimore Instrumentation,Debtors,USD,Cash,USD,9466.66,9466.66,ACH-0067,2026-01-12
+ACC-PAY-2025-00067,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Perrimore Instrumentation,Debtors,USD,Cash,USD,9466.67,9466.67,ACH-0068,2026-01-12
+ACC-PAY-2025-00069,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Quilford Genomics,Debtors,USD,Cash,USD,7650.0,7650.0,ACH-0070,2025-11-15
+ACC-PAY-2025-00070,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Quilford Genomics,Debtors,USD,Cash,USD,7650.0,7650.0,ACH-0071,2025-12-15
+ACC-PAY-2025-00071,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Quilford Genomics,Debtors,USD,Cash,USD,7650.0,7650.0,ACH-0072,2026-01-12
+ACC-PAY-2025-00072,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Redstone Assays,Debtors,USD,Cash,USD,9300.0,9300.0,ACH-0073,2025-11-15
+ACC-PAY-2025-00073,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Redstone Assays,Debtors,USD,Cash,USD,9300.0,9300.0,ACH-0074,2025-12-15
+ACC-PAY-2025-00074,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Redstone Assays,Debtors,USD,Cash,USD,9300.0,9300.0,ACH-0075,2026-01-12
+ACC-PAY-2025-00075,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Halston Molecular Diagnostics,Debtors,USD,Cash,USD,16400.0,16400.0,ACH-0076,2025-11-15
+ACC-PAY-2025-00076,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Halston Molecular Diagnostics,Debtors,USD,Cash,USD,8550.0,8550.0,ACH-0077,2025-12-15
+ACC-PAY-2025-00078,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Halston Molecular Diagnostics,Debtors,USD,Cash,USD,8950.0,8950.0,ACH-0079,2026-01-12
+ACC-PAY-2025-00080,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Radstock Diagnostics,Debtors,USD,Cash,USD,12000.0,12000.0,ACH-0081,2025-11-15
+ACC-PAY-2025-00081,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Radstock Diagnostics,Debtors,USD,Cash,USD,12000.0,12000.0,ACH-0082,2025-12-15
+ACC-PAY-2025-00082,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Radstock Diagnostics,Debtors,USD,Cash,USD,12000.0,12000.0,ACH-0083,2026-01-12
+ACC-PAY-2025-00083,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Verwood Genomics,Debtors,USD,Cash,USD,5900.0,5900.0,ACH-0084,2025-11-15
+ACC-PAY-2025-00084,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Verwood Genomics,Debtors,USD,Cash,USD,6200.0,6200.0,ACH-0085,2025-12-15
+ACC-PAY-2025-00085,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Verwood Genomics,Debtors,USD,Cash,USD,6500.0,6500.0,ACH-0086,2026-01-12
+ACC-PAY-2025-00086,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Verrick Microbiology,Debtors,USD,Cash,USD,8750.0,8750.0,ACH-0087,2025-11-15
+ACC-PAY-2025-00087,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Verrick Microbiology,Debtors,USD,Cash,USD,8750.0,8750.0,ACH-0088,2025-12-15
+ACC-PAY-2025-00088,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Verrick Microbiology,Debtors,USD,Cash,USD,8750.0,8750.0,ACH-0089,2026-01-12
+ACC-PAY-2025-00089,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Kingsley Molecular,Debtors,USD,Cash,USD,10650.0,10650.0,ACH-0090,2025-11-15
+ACC-PAY-2025-00091,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Kingsley Molecular,Debtors,USD,Cash,USD,11075.0,11075.0,ACH-0092,2025-12-15
+ACC-PAY-2025-00093,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Kingsley Molecular,Debtors,USD,Cash,USD,11500.0,11500.0,ACH-0094,2026-01-12
+ACC-PAY-2025-00095,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Ashford Scientific Instruments,Debtors,USD,Cash,USD,9600.0,9600.0,ACH-0096,2025-11-15
+ACC-PAY-2025-00096,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Ashford Scientific Instruments,Debtors,USD,Cash,USD,9600.0,9600.0,ACH-0097,2025-12-15
+ACC-PAY-2025-00097,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Ashford Scientific Instruments,Debtors,USD,Cash,USD,9600.0,9600.0,ACH-0098,2026-01-12
+ACC-PAY-2025-00098,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Larkspur Diagnostics,Debtors,USD,Cash,USD,4800.0,4800.0,ACH-0099,2025-11-15
+ACC-PAY-2025-00099,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Larkspur Diagnostics,Debtors,USD,Cash,USD,4800.0,4800.0,ACH-0100,2025-12-15
+ACC-PAY-2025-00100,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Larkspur Diagnostics,Debtors,USD,Cash,USD,4800.0,4800.0,ACH-0101,2026-01-12
+ACC-PAY-2025-00101,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Ingleton Diagnostics,Debtors,USD,Cash,USD,13200.0,13200.0,ACH-0102,2025-11-15
+ACC-PAY-2025-00102,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Ingleton Diagnostics,Debtors,USD,Cash,USD,13200.0,13200.0,ACH-0103,2025-12-15
+ACC-PAY-2025-00103,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Ingleton Diagnostics,Debtors,USD,Cash,USD,13200.0,13200.0,ACH-0104,2026-01-12
+ACC-PAY-2025-00104,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Northlake Bioinstruments,Debtors,USD,Cash,USD,8140.0,8140.0,ACH-0105,2025-11-15
+ACC-PAY-2025-00105,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Northlake Bioinstruments,Debtors,USD,Cash,USD,8470.0,8470.0,ACH-0106,2025-12-15
+ACC-PAY-2025-00106,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Northlake Bioinstruments,Debtors,USD,Cash,USD,9350.0,9350.0,ACH-0107,2026-01-12
+ACC-PAY-2025-00107,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Larchfield Bioanalytics,Debtors,USD,Cash,USD,7400.0,7400.0,ACH-0108,2025-11-15
+ACC-PAY-2025-00108,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Larchfield Bioanalytics,Debtors,USD,Cash,USD,7400.0,7400.0,ACH-0109,2025-12-15
+ACC-PAY-2025-00109,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Larchfield Bioanalytics,Debtors,USD,Cash,USD,7650.0,7650.0,ACH-0110,2026-01-12
+ACC-PAY-2025-00110,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Norbury Bioimaging,Debtors,USD,Cash,USD,16900.0,16900.0,ACH-0111,2025-11-15
+ACC-PAY-2025-00111,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Norbury Bioimaging,Debtors,USD,Cash,USD,8700.0,8700.0,ACH-0112,2025-12-15
+ACC-PAY-2025-00113,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Norbury Bioimaging,Debtors,USD,Cash,USD,9100.0,9100.0,ACH-0114,2026-01-12
+ACC-PAY-2025-00115,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Barrowfield Biolabs,Debtors,USD,Cash,USD,10800.0,10800.0,ACH-0116,2025-11-15
+ACC-PAY-2025-00116,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Barrowfield Biolabs,Debtors,USD,Cash,USD,10800.0,10800.0,ACH-0117,2025-12-15
+ACC-PAY-2025-00117,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Barrowfield Biolabs,Debtors,USD,Cash,USD,10800.0,10800.0,ACH-0118,2026-01-12
+ACC-PAY-2025-00118,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Selwood Cell Systems,Debtors,USD,Cash,USD,6000.0,6000.0,ACH-0119,2025-11-15
+ACC-PAY-2025-00119,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Selwood Cell Systems,Debtors,USD,Cash,USD,6000.0,6000.0,ACH-0120,2025-12-15
+ACC-PAY-2025-00120,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Selwood Cell Systems,Debtors,USD,Cash,USD,6000.0,6000.0,ACH-0121,2026-01-12
+ACC-PAY-2025-00121,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Draymere Sciences,Debtors,USD,Cash,USD,9500.0,9500.0,ACH-0122,2025-11-15
+ACC-PAY-2025-00122,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Draymere Sciences,Debtors,USD,Cash,USD,9750.0,9750.0,ACH-0123,2025-12-15
+ACC-PAY-2025-00123,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Draymere Sciences,Debtors,USD,Cash,USD,10000.0,10000.0,ACH-0124,2026-01-12
+ACC-PAY-2025-00124,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Wrenfield Scientific,Debtors,USD,Cash,USD,15533.0,15533.0,ACH-0125,2025-11-15
+ACC-PAY-2025-00125,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Wrenfield Scientific,Debtors,USD,Cash,USD,15533.0,15533.0,ACH-0126,2025-12-15
+ACC-PAY-2025-00126,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Wrenfield Scientific,Debtors,USD,Cash,USD,15534.0,15534.0,ACH-0127,2026-01-12
+ACC-PAY-2025-00127,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Marchmont Analytical Systems,Debtors,USD,Cash,USD,14600.0,14600.0,ACH-0128,2025-11-15
+ACC-PAY-2025-00128,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Marchmont Analytical Systems,Debtors,USD,Cash,USD,14600.0,14600.0,ACH-0129,2025-12-15
+ACC-PAY-2025-00129,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Marchmont Analytical Systems,Debtors,USD,Cash,USD,14600.0,14600.0,ACH-0130,2026-01-12
+ACC-PAY-2025-00130,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Coppergate Diagnostics,Debtors,USD,Cash,USD,8200.0,8200.0,ACH-0131,2025-11-15
+ACC-PAY-2025-00131,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Coppergate Diagnostics,Debtors,USD,Cash,USD,8200.0,8200.0,ACH-0132,2025-12-15
+ACC-PAY-2025-00132,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Coppergate Diagnostics,Debtors,USD,Cash,USD,8700.0,8700.0,ACH-0133,2026-01-12
+ACC-PAY-2025-00133,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Everleigh Bioinstruments,Debtors,USD,Cash,USD,11100.0,11100.0,ACH-0134,2025-11-15
+ACC-PAY-2025-00134,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Everleigh Bioinstruments,Debtors,USD,Cash,USD,11100.0,11100.0,ACH-0135,2025-12-15
+ACC-PAY-2025-00135,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Everleigh Bioinstruments,Debtors,USD,Cash,USD,11100.0,11100.0,ACH-0136,2026-01-12
+ACC-PAY-2025-00136,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Glenmore Diagnostics,Debtors,USD,Cash,USD,9900.0,9900.0,ACH-0137,2025-11-15
+ACC-PAY-2025-00138,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Glenmore Diagnostics,Debtors,USD,Cash,USD,10200.0,10200.0,ACH-0139,2025-12-15
+ACC-PAY-2025-00140,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Glenmore Diagnostics,Debtors,USD,Cash,USD,10950.0,10950.0,ACH-0141,2026-01-12
+ACC-PAY-2025-00645,Receive,2025-11-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Marlstone Bioscience,Debtors,USD,Cash,USD,62300.0,62300.0,ACH-MARL-11,2025-11-15
+ACC-PAY-2025-00646,Receive,2025-12-15,"Thornfield Life Sciences Marketing, Inc.",Customer,Marlstone Bioscience,Debtors,USD,Cash,USD,61100.0,61100.0,ACH-MARL-12,2025-12-15
+ACC-PAY-2025-00647,Receive,2026-01-12,"Thornfield Life Sciences Marketing, Inc.",Customer,Marlstone Bioscience,Debtors,USD,Cash,USD,64000.0,64000.0,ACH-MARL-01,2026-01-12
