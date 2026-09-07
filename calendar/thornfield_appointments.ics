@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thornfield Life Sciences Marketing//RL Studio World//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:fb40540a-fc65-5ccf-bf0d-28c1bddc331d@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251111T140000
+DTEND:20251111T143000
+SUMMARY:Appointment with Stellan Vasquez
+DESCRIPTION:Advanced-stage lead from Radial Biosystems \n Appointment with type: Lead
+ATTENDEE;CN=Stellan Vasquez:mailto:s.vasquez@radialbio.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d46f4fc8-6108-5a38-b3da-d1c926cb14a4@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251212T140000
+DTEND:20251212T143000
+SUMMARY:Appointment with Gustav Dahl
+DESCRIPTION:Advanced-stage lead from Kestrel Diagnostics \n Appointment with type: Lead
+ATTENDEE;CN=Gustav Dahl:mailto:g.dahl@kestreldx.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8e91a699-b3fa-5818-a152-726bc9779558@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251013T140000
+DTEND:20251013T143000
+SUMMARY:Appointment with Kenji Moreau
+DESCRIPTION:Advanced-stage lead from Chartwell Instruments \n Appointment with type: Lead
+ATTENDEE;CN=Kenji Moreau:mailto:k.moreau@chartwellinst.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:adcd2969-49e3-5687-8854-e8ff189ba20c@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251114T140000
+DTEND:20251114T143000
+SUMMARY:Appointment with Owen Nazarov
+DESCRIPTION:Advanced-stage lead from Kilburn Molecular \n Appointment with type: Lead
+ATTENDEE;CN=Owen Nazarov:mailto:o.nazarov@kilburnmol.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f47e196f-6c74-5299-8a44-3705fcb2b90d@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251215T140000
+DTEND:20251215T143000
+SUMMARY:Appointment with Devon Eriksson
+DESCRIPTION:Advanced-stage lead from Merit BioScience \n Appointment with type: Lead
+ATTENDEE;CN=Devon Eriksson:mailto:d.eriksson@meritbio.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b64746d1-e494-547a-a565-16fc4b1f4ba4@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251016T140000
+DTEND:20251016T143000
+SUMMARY:Appointment with Esther Kapoor
+DESCRIPTION:Advanced-stage lead from Trellis Molecular \n Appointment with type: Lead
+ATTENDEE;CN=Esther Kapoor:mailto:e.kapoor@trellismol.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:57a6ca9d-f044-5e5c-abf6-b5611c4c858e@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251117T140000
+DTEND:20251117T143000
+SUMMARY:Appointment with Paloma Falcon
+DESCRIPTION:Advanced-stage lead from Glenridge BioLabs \n Appointment with type: Lead
+ATTENDEE;CN=Paloma Falcon:mailto:p.falcon@glenridgebiolabs.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cfc524ce-d48a-5084-b0a2-c4ba67ae7c0c@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251218T140000
+DTEND:20251218T143000
+SUMMARY:Appointment with Hana Moreau
+DESCRIPTION:Advanced-stage lead from Pentworth Molecular \n Appointment with type: Lead
+ATTENDEE;CN=Hana Moreau:mailto:h.moreau@pentworthmol.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:31bb43e8-23e1-5fe7-82f8-7e420bb167d8@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251019T140000
+DTEND:20251019T143000
+SUMMARY:Appointment with Esther Ustinov
+DESCRIPTION:Advanced-stage lead from Vallon Instruments \n Appointment with type: Lead
+ATTENDEE;CN=Esther Ustinov:mailto:e.ustinov@valloninst.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:441b8d54-b6ad-571c-8e55-b1b2d6645206@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251120T140000
+DTEND:20251120T143000
+SUMMARY:Appointment with Priyanka Janik
+DESCRIPTION:Advanced-stage lead from Kadence Diagnostics \n Appointment with type: Lead
+ATTENDEE;CN=Priyanka Janik:mailto:p.janik@kadencedx.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bff07b8c-180a-52d0-8844-32526a9d6b8c@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251221T140000
+DTEND:20251221T143000
+SUMMARY:Appointment with Keiko Rowe
+DESCRIPTION:Advanced-stage lead from Beacon Assay Systems \n Appointment with type: Lead
+ATTENDEE;CN=Keiko Rowe:mailto:k.rowe@beaconassay.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c46c1dd-e145-5f5a-a443-653113b02a6c@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251022T140000
+DTEND:20251022T143000
+SUMMARY:Appointment with Priyanka Gagnon
+DESCRIPTION:Advanced-stage lead from Radial Biosystems \n Appointment with type: Lead
+ATTENDEE;CN=Priyanka Gagnon:mailto:p.gagnon@radialbio.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b054f10c-f2af-5e54-855d-2d8751218bdb@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251123T140000
+DTEND:20251123T143000
+SUMMARY:Appointment with Zane Ibori
+DESCRIPTION:Advanced-stage lead from Silverpine Therapeutics \n Appointment with type: Lead
+ATTENDEE;CN=Zane Ibori:mailto:z.ibori@silverpinetx.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:decbe31f-3887-5fce-9d40-72d749b33fcd@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251224T140000
+DTEND:20251224T143000
+SUMMARY:Appointment with Klaus Enescu
+DESCRIPTION:Advanced-stage lead from Ashvale Molecular \n Appointment with type: Lead
+ATTENDEE;CN=Klaus Enescu:mailto:k.enescu@ashvalemol.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e716648-e3f3-5b6b-ad92-5f5ed8d43656@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251025T140000
+DTEND:20251025T143000
+SUMMARY:Appointment with Oscar Kowalski
+DESCRIPTION:Advanced-stage lead from Merit BioScience \n Appointment with type: Lead
+ATTENDEE;CN=Oscar Kowalski:mailto:o.kowalski@meritbio.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9e45a65a-ba7e-5469-9143-1e032fe87c5a@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251126T140000
+DTEND:20251126T143000
+SUMMARY:Appointment with Meredith Isaev
+DESCRIPTION:Advanced-stage lead from Whitfield Diagnostics \n Appointment with type: Lead
+ATTENDEE;CN=Meredith Isaev:mailto:m.isaev@whitfielddx.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c0240f-9a8a-57e1-b3f6-7c83ece7f319@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251227T140000
+DTEND:20251227T143000
+SUMMARY:Appointment with Owen Weiss
+DESCRIPTION:Advanced-stage lead from Quaywater BioLabs \n Appointment with type: Lead
+ATTENDEE;CN=Owen Weiss:mailto:o.weiss@quaywaterbiolabs.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f3915b-9fd0-5601-961d-3da3e419419c@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251010T140000
+DTEND:20251010T143000
+SUMMARY:Appointment with Grace Ulrich
+DESCRIPTION:Advanced-stage lead from Yardsley Analytical \n Appointment with type: Lead
+ATTENDEE;CN=Grace Ulrich:mailto:g.ulrich@yardsleyanalytical.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2fe20629-39bc-5fa7-afae-9d1e280c2fc0@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251111T140000
+DTEND:20251111T143000
+SUMMARY:Appointment with Amelia Moreau
+DESCRIPTION:Advanced-stage lead from Hallmark Molecular \n Appointment with type: Lead
+ATTENDEE;CN=Amelia Moreau:mailto:a.moreau@hallmarkmol.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:02c1e0d2-2e36-5f8c-9362-01f56adabc05@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251212T140000
+DTEND:20251212T143000
+SUMMARY:Appointment with Nikolai Radu
+DESCRIPTION:Advanced-stage lead from Willowmere Diagnostics \n Appointment with type: Lead
+ATTENDEE;CN=Nikolai Radu:mailto:n.radu@willowmeredx.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6c66ac86-6c7f-53ec-b130-9f03866f1236@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251013T140000
+DTEND:20251013T143000
+SUMMARY:Appointment with Ivaan Winterbourne
+DESCRIPTION:Advanced-stage lead from Bellwether Reagents \n Appointment with type: Lead
+ATTENDEE;CN=Ivaan Winterbourne:mailto:i.winterbourne@bellwetherreagents.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:50523e2f-4a25-51e1-9329-a7ff80fe8c81@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251114T140000
+DTEND:20251114T143000
+SUMMARY:Appointment with Imani Ostrowski
+DESCRIPTION:Advanced-stage lead from Windrow Scientific \n Appointment with type: Lead
+ATTENDEE;CN=Imani Ostrowski:mailto:i.ostrowski@windrowsci.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4f10d2-f8f2-5d15-88a5-ab2336831f77@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251215T140000
+DTEND:20251215T143000
+SUMMARY:Appointment with Ingrid Verma
+DESCRIPTION:Advanced-stage lead from Sedgwick Reagents \n Appointment with type: Lead
+ATTENDEE;CN=Ingrid Verma:mailto:i.verma@sedgwickreagents.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ce986619-3c68-5090-baa9-5763adfe8bf2@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251016T140000
+DTEND:20251016T143000
+SUMMARY:Appointment with Umar Chandra
+DESCRIPTION:Advanced-stage lead from Kilburn Molecular \n Appointment with type: Lead
+ATTENDEE;CN=Umar Chandra:mailto:u.chandra@kilburnmol.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d7c0273a-3e3b-5213-ae16-1499cda206e5@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251117T140000
+DTEND:20251117T143000
+SUMMARY:Appointment with Amelia Nakamura
+DESCRIPTION:Advanced-stage lead from Pemberton Diagnostics \n Appointment with type: Lead
+ATTENDEE;CN=Amelia Nakamura:mailto:a.nakamura@pembertondx.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6972c94f-b1a9-5bcd-ae26-6cb672653e8b@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251218T140000
+DTEND:20251218T143000
+SUMMARY:Appointment with Chen Ustinov
+DESCRIPTION:Advanced-stage lead from Underhill Bio \n Appointment with type: Lead
+ATTENDEE;CN=Chen Ustinov:mailto:c.ustinov@underhillbio.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7e066403-18dd-5292-85f5-c39dcc507802@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251019T140000
+DTEND:20251019T143000
+SUMMARY:Appointment with Mikhail Yilmaz
+DESCRIPTION:Advanced-stage lead from Bosworth BioScience \n Appointment with type: Lead
+ATTENDEE;CN=Mikhail Yilmaz:mailto:m.yilmaz@bosworthbio.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6d5b703a-8c43-561a-8997-acc0e429b387@thornfieldlsm.com
+DTSTAMP:20260101T000000Z
+DTSTART:20251120T140000
+DTEND:20251120T143000
+SUMMARY:Appointment with Boris Grondin
+DESCRIPTION:Advanced-stage lead from Fairhaven Analytical \n Appointment with type: Lead
+ATTENDEE;CN=Boris Grondin:mailto:b.grondin@fairhavenanalytical.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
